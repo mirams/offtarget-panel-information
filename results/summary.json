@@ -1,0 +1,7 @@
+{
+  "panel_size": 50,
+  "n_targets": 1000,
+  "marginal_hit_rate": 0.003,
+  "nu": 5.0,
+  "base_rate_clean_all_targets": 0.04956308282316094
+}
